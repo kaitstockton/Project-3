@@ -1,0 +1,43 @@
+Demographic Information
+What is your full name?
+What is your classification? (Freshman, Sophomore, etc)
+What is your major? 
+
+Basic Questions
+
+Do you know or did your struggle with finding your EUID?
+ 
+Can you use one password for your MYUNT, Blackboard, EagleConnect, and Eagle Network? 
+
+Do you struggle with accessing or finding specific sections on MYUNT?
+
+Are EagleConnect and Eagle Network the same? 
+
+What is Eagle Network? 
+
+Do you know how to change your password?
+
+Do you know how long one password is acceptable? 
+
+What IT area related to UNT that you struggle with the most? 
+
+Do you know how to access your transcripts? 
+
+Do you know how to enroll in classes?
+
+
+On a scale of 1-5(with 1 being strongly disagree and 5 being strongly agree), how would you rate the below:
+
+Accessing MYUNT is simple
+
+Navigating and finding information on MYUNT is simple
+
+Using Blackboard is convenient and simple
+
+Blackboard's maintenance is bothersome
+
+
+
+
+
+
